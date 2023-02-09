@@ -1,0 +1,21 @@
+// Colours 
+$primaryBlack: #361d51; 
+$primaryWhite: #ffffff;
+$skatePink: #ec2c7b;
+$skateBlue: #0c96b3;
+$skateOrange: #f99b4a;
+$transparentWhite: rgba(255,255,255,.90);
+
+// border radius default
+$shape: 32px 0 32px 0;
+
+
+// Fonts
+$baseFont: freight-sans-pro, sans-serif;
+$headerFont: 'Selfie_Black', sans-serif;  
+
+@font-face {
+    font-family: 'Selfie_Black';
+    src: local('Selfie_Black'), url(../fonts/Selfie_Black.otf) format('opentype');
+}
+
